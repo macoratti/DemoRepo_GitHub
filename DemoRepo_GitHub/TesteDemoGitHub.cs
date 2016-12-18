@@ -10,5 +10,6 @@ namespace DemoRepo_GitHub
     {
         public string Nome { get; set; }
         public string Produto { get; set; }
+        public int Idade { get; set; }
     }
 }
